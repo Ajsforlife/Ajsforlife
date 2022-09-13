@@ -11,7 +11,7 @@ LinkedIn: https://www.linkedin.com/in/andrew-stein-82b52823a/
 
 Summary
 
-Extremely driven individual with extensive knowledge in computer hardware and coding including python, SQL, Excel, Javascript with a certificate (in progress) in Data Analytics from Columbia University. Experience in many coding languages as stated above, strong ability to work through errors and create flawless data visualizations. Fantastic ability to work with a group and push forward through any project presented. Always exceeding expectations and enjoys working as a team to create the best possible results.
+Extremely driven individual with extensive knowledge in computer hardware and coding including python, SQL, Excel, Javascript, R with a certificate in Data Analytics from Columbia University. Experience in many coding languages as stated above, strong ability to work through errors and create flawless data visualizations. Fantastic ability to work with a group and push forward through any project presented. Always exceeding expectations and enjoys working as a team to create the best possible results.
 
 Technical Skills
 

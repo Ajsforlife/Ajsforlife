@@ -29,11 +29,11 @@ Bike Sharing Citi-bike | https://github.com/Ajsforlife/bikesharing
 -Created all of the charts and created the story in Tableau
 -Used Pandas and Tableau
 
-Belly-Button Bacteria | https://github.com/Ajsforlife/challenge-12 |
-https://ajsforlife.github.io/challenge-12/
+Belly-Button Bacteria | https://github.com/Ajsforlife/Belly_Button_Analysis  | https://ajsforlife.github.io/Belly_Button_Analysis/ 
 -Javascript/HTML project which uses plotly as a means to provide 3 interactive charts.
 -Created the entire webpage and deployed it via github created all charts and wrote all code in javascript.
 -Used Javascript, HTML, Plotly
+
 
 Mapping Earthquakes | https://github.com/Ajsforlife/Mapping_Earthquakes
     -Javascript/HTML project which uses apis to provide a multi layered map with overlays

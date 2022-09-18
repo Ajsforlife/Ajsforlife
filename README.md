@@ -7,7 +7,7 @@ Colorado Springs, CO
 
 Phone: 610-310-2767 | Email: AJSforlife@icloud.com |  Github: https://github.com/Ajsforlife
 
-LinkedIn: https://www.linkedin.com/in/andrew-stein-82b52823a/ 
+LinkedIn: https://www.linkedin.com/in/andrew-stein-4911ab204/
 
 Summary
 
